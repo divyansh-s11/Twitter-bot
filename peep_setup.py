@@ -1,8 +1,8 @@
 import tweepy
 import time
 
-api_key = "ZXzFqyDrDtymtKOZ7vm6U17Eu"
-api_secret = "F9mCMrmSNDiVxZilHMYd0hvJiE2sMNJ6tyeLPFha41m8F3vLsE"
+api_key = " "
+api_secret = " "
 bearer_token = "AAAAAAAAAAAAAAAAAAAAALkmugEAAAAASVR8ITozqppNaet8QOJDd5T6ktA%3DBtz8ixD6ZUfevZ34SJ7cEM6TS6uBfjEF4f7Y0AsR9dd3m6C8bY"
 access_token = "1806254121051148288-zWjjEcWBDDqImMii3sgpCCrctazT4Y"
 access_token_secret = "WHX7Wb0GPtnrXLmMPjL2KlbLpReNJLQcMK8pjcaFPijvd"
