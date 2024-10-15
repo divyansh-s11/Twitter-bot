@@ -4,8 +4,8 @@ import time
 api_key = " "
 api_secret = " "
 bearer_token = "AAAAAAAAAAAAAAAAAAAAALkmugEAAAAASVR8ITozqppNaet8QOJDd5T6ktA%3DBtz8ixD6ZUfevZ34SJ7cEM6TS6uBfjEF4f7Y0AsR9dd3m6C8bY"
-access_token = "1806254121051148288-zWjjEcWBDDqImMii3sgpCCrctazT4Y"
-access_token_secret = "WHX7Wb0GPtnrXLmMPjL2KlbLpReNJLQcMK8pjcaFPijvd"
+access_token = " "
+access_token_secret = " "
 
 client = tweepy.Client(bearer_token, api_key, api_secret,
                        access_token, access_token_secret)
